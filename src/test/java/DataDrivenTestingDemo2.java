@@ -46,6 +46,10 @@ public class DataDrivenTestingDemo2 {
 			// TESTIRANJE SA GITHUB-om
 			System.out.println("Github testing");
 			
+			// Dodavanje koda na develop branch test
+			System.out.println("Dodavanje koda na develop branch test");
+			
+			
 			
 			
 		}
